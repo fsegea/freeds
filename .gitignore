@@ -7,3 +7,4 @@
 build_output
 pio
 lib
+.vscode/extensions.json
